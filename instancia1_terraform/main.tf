@@ -1,8 +1,8 @@
 # Configure the AWS Provider
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAXN5XSS2XRE76KXA7"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 data "aws_ami" "ubuntu" {
